@@ -1,0 +1,5 @@
+.idea
+屏蔽词.txt
+/src/屏蔽词.txt
+/out
+/src/NFAShieldFinder.java
